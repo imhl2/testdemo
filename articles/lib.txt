@@ -1,0 +1,15 @@
+wheel
+pandas
+numpy
+matplotlib
+networkx
+requests
+urllib3
+pymongo
+DateTime
+SQLAlchemy
+seaborn
+tweepy
+beautifulsoup4
+bs4
+scrapy
